@@ -52,6 +52,7 @@ For part-of-speech tagging, we use data from the Universal Dependencies v2.5. Yo
 ```
 bash scripts/train.sh [MODEL] udpos
 ```
+### 654هزار از محمد صادق رسولی و مژگان سراجی
 
 ## Wikiann named entity recognition
 
@@ -59,6 +60,7 @@ For named entity recognition (NER), we use data from the Wikiann (panx) dataset.
 ```
 bash scripts/train.sh [MODEL] panx
 ```
+### فارسی 40هزار سطر از مقاله افشین رحیمی: Massively Multilingual Transfer for NER
 
 ## PAXS-X sentence classification
 
